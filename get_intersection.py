@@ -2,7 +2,7 @@
 
 from typing import Optional
 
-def get_intersection(self, head_a: Optional[ListNode], head_b: Optional[ListNode]) -> Optional[ListNode]:
+def get_intersection(head_a: Optional[ListNode], head_b: Optional[ListNode]) -> Optional[ListNode]:
     """
     We need to find a way to line up the ends of the two lists. To concatenate them in opposite orders, A+B and B+A
     This way, the ends of the two original lists will align on the second half of each merged list.
