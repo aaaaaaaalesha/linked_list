@@ -3,7 +3,7 @@
 from typing import Optional
 
 
-def detect_cycle(self, head: ListNode) -> Optional[ListNode]:
+def detect_cycle(head: ListNode) -> Optional[ListNode]:
     """
     Floyd's tortoise and hare algorithm.
     Create two references to the head and move them at different speeds: 1 and 2.
