@@ -2,7 +2,7 @@
 
 from typing import Optional
 
-def remove_Nth_from_end(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+def remove_Nth_from_end(head: Optional[ListNode], n: int) -> Optional[ListNode]:
     if head is None:
         return head
 
