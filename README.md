@@ -1,4 +1,7 @@
 # Linked List
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+
 
 ![linked_list_banner](https://assets.leetcode.com/explore/cards/linked-list/banner)
 
